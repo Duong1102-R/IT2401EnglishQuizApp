@@ -1,0 +1,5 @@
+com\dtht\quizappv1\App.class
+module-info.class
+com\dtht\utils\MyAlertSingleton.class
+com\dtht\quizappv1\PrimaryController.class
+com\dtht\quizappv1\SecondaryController.class
